@@ -45,6 +45,8 @@ I thrive on tackling complex problems and enjoy the entire lifecycle of ML proje
 
 <img src="https://komarev.com/ghpvc/?username=m-alitahir&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width=800 src="https://github-profile-trophy.vercel.app/?username=m-alitahir&theme=nord&no-frame=true" alt="aw-junaid" /></a> </p>
+
 ## Connect With Me
 
 <a href="https://linkedin.com/in/m-alitahir" target="_blank">
