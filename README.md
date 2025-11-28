@@ -1,12 +1,13 @@
-# Hi there! I'm Muhammad Ali Tahir 👋
+<img align = "" src="https://github.com/m-alitahir/m-alitahir/blob/main/Assests/asset3.webp" width="1000" height="150" alt="m-alitahir">
 
-## 🚀 Solving Real-World Problems with Data Analysis & Machine Learning
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Machine+Learning+Engineer;Data+Scientist;AI+Enthusiast;Problem+Solver)
+<h3 align="left"> I'm Muhammad Ali Tahir</h3>
+<h2 align="left">Solving Real-World Problems with Data Analysis & Machine Learning</h2>
 
----
+<img class="rounded-image" src="https://github.com/m-alitahir/m-alitahir/blob/main/Assests/robots.webp" alt="awjunaid" style="width: 200px; height: 200px; border-radius: 50%; object-fit: cover;" align="right">
 
-## 📖 About Me
+
+## About Me
 
 I'm a passionate Machine Learning Engineer with a strong foundation in data analysis and artificial intelligence. With expertise in transforming complex data into actionable insights, I specialize in building intelligent systems that solve real-world challenges. My journey in tech is driven by curiosity and the desire to create meaningful impact through data-driven solutions.
 
@@ -14,7 +15,7 @@ I thrive on tackling complex problems and enjoy the entire lifecycle of ML proje
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Core Competencies
 - **Machine Learning & Deep Learning**
@@ -32,7 +33,7 @@ I thrive on tackling complex problems and enjoy the entire lifecycle of ML proje
 
 ---
 
-## 💡 Philosophy & Quotes
+## Philosophy & Quotes
 
 > "Data is the new oil, but machine learning is the refinery that turns it into value."
 
@@ -42,19 +43,9 @@ I thrive on tackling complex problems and enjoy the entire lifecycle of ML proje
 
 ---
 
-## 📊 GitHub Analytics
+<img src="https://komarev.com/ghpvc/?username=m-alitahir&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
-<img width="98%" src="https://github-readme-stats.vercel.app/api?username=m-alitahir&show_icons=true&theme=radical&hide_border=true" />
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=m-alitahir&theme=radical&hide_border=true" />
-
-<img width="98%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-alitahir&layout=compact&theme=radical&hide_border=true" />
-
-<img width="98%" src="https://github-profile-trophy.vercel.app/?username=m-alitahir&theme=radical&no-bg=true&no-frame=true&margin-w=10&row=2&column=4" />
-
----
-
-## 🌐 Connect With Me
+## Connect With Me
 
 <a href="https://linkedin.com/in/m-alitahir" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -71,7 +62,7 @@ I thrive on tackling complex problems and enjoy the entire lifecycle of ML proje
 
 ---
 
-## 📈 Current Focus
+## Current Focus
 
 ```python
 class MachineLearningEngineer:
@@ -98,6 +89,14 @@ engineer = MachineLearningEngineer()
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=m-alitahir&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-alitahir&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-inky-two.vercel.app?user=m-alitahir&theme=dark" height="150 alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=m-alitahir&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=20&theme=dark&hide_border=false" height="300" width="400" alt="languages graph"  />
+</div>
+
 
 *Let's build intelligent solutions together!*
